@@ -1,7 +1,5 @@
 # **EgoGestAR** *(ego-gesture)*
-An egocentric pointing gesture dataset. Developed for [PointGestAR: A Hand Gestural Framework for
-Augmented Reality User Interfaces](https://pointgestar.github.io/ "PointGestAR: A Hand Gestural Framework for
-Augmented Reality User Interfaces ")
+An egocentric pointing gesture dataset. Developed for [PointGestAR: A Pointing Hand Gestural Framework for Augmented Reality User Interfaces ](https://pointgestar.github.io/ "PointGestAR: A Pointing Hand Gestural Framework for Augmented Reality User Interfaces ")
 
 # Links
 Codebase: *will come soon*
